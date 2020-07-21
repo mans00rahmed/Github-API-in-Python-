@@ -1,4 +1,4 @@
-# Github-API-in-Python
+# Github-API-in-Python 🐍
  How to Use Github API in Python 
 # You'ill need libraries like : 
 base64 ,github ,request
